@@ -1,6 +1,7 @@
 # JDJ-Repository
 Repositório de bibliotecas
 
+## Adicione em seu pom.xml
         <repository>
                 <id>JDJMvn</id>
                 <name>JDJ Repository</name>
