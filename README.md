@@ -5,7 +5,7 @@ Repositório de bibliotecas
         <repository>
                 <id>JDJMvn</id>
                 <name>JDJ Repository</name>
-                <url>"https://github.com/JDJ-Softwares/JDJ-Repository/tree/master"</url>
+                <url>"https://github.com/JDJ-Softwares/JDJ-Repository/tree/master/repository"</url>
                 <snapshots>
                     <enabled>true</enabled>
                     <updatePolicy>always</updatePolicy>
